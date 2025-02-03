@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @M7702<br>👀 I’m interested in web-development, data-science and AI<br>🌱 I’m currently learning data management and visual insight<br>💞️ I’m looking to collaborate on project<br>📫 How to reach me email: MP7702524@GMAIL.COM<br>😄 Pronouns: HE<br>⚡ Fun fact: CRAZZY
+👋 Hi, I’m mit prajapati<br>👀 I’m interested in web-development, data-science and AI<br>🌱 I’m currently learning data management and visual insight<br>💞️ I’m looking to collaborate on project<br>📫 How to reach me email: MP7702524@GMAIL.COM<br>😄 Pronouns: HE<br>⚡ Fun fact: CRAZZY
 
 
 ## 🌐 Socials:
