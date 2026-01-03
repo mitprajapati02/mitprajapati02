@@ -69,18 +69,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/mitprajapati02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitprajapati02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitprajapati02&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
-</a>
-
-<!-- 🔥 Streak Stats -->
-<a href="https://github.com/mitprajapati02">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mitprajapati02&theme=tokyonight&hide_border=true&background=00000000" />
-</a>
-
 </div>
 
 
