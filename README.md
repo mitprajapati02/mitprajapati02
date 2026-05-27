@@ -9,7 +9,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="MERN Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;AI-ML+Enthusiast;Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="MERN Stack Developer" />
 </h3>
 
 <div align="center">
